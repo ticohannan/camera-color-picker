@@ -54,4 +54,4 @@ python -m pytest -q
 
 ## License
 
-BSD 3-Clause. Copyright (c) 2026, ticohannan.
+BSD 3-Clause. Copyright (c) 2026, Tico Hannan.

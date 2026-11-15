@@ -5,7 +5,7 @@
 browser. **Not yet run on Windows or with a real camera**
 **Updated:** 2026-11-11
 **Applies to:** `camera_color_picker` v0.2.0, `notebooks/color_picker.ipynb`
-**Author:** ticohannan
+**Author:** Tico Hannan
 
 A Jupyter tool, run from **one notebook cell**, for testing USB cameras and measuring colors. It answers
 four questions before any vision code is written: which cameras Windows can see, which resolutions and
