@@ -3,7 +3,7 @@
     from camera_color_picker import ColorPicker
     picker = ColorPicker(save_dir="captures").show()
 
-Design: docs/design.md (DD-CP). BSD-3-Clause. Author: ticohannan.
+Design: docs/design.md (DD-CP). BSD-3-Clause. Author: Tico Hannan.
 """
 __version__ = "0.2.0"
 
